@@ -1,0 +1,28 @@
+Melee,Punch,You can always rely on your own strength when all else fails.,1,1,4,5,4
+Melee,Quick Slash,Quickly slash out at the enemy for a weak but cheap and reliable attack.,0,1,2,5,2
+Melee,Strike,Strike at the enemy for a solid and reliable attack.,2,1,3,10,3
+Melee,Powerful Slash,Slash at the enemy with vigour for a strong but tiring attack.,3,2,2,15,2
+Melee,Thunderous Strike,Attack the enemy with all your might!,4,3,2,18,2
+Defence,Guarded Stance,Adopt a basic guard which the enemy will have trouble attacking around.,1,1,0,5,0
+Defence,Solid Stance,Root yourself in a solid stance to protect against the enemy onslaught.,2,2,0,8,0
+Defence,Stag Guard,Adopt the Stag Guard as seen in the manuals written by the great masters.,3,3,0,12,0
+Defence,Basic Armour,Equip some basic armour that can withstand a few hits.,2,3,0,10,0
+Defence,Magical Shield,Cast a magical shield on yourself.,4,2,0,10,0
+Defence,Greater Magical Shield,Carefully focus and dig deep to conjure an impressively sturdy magical shield.,5,3,0,15,0
+Ranged,Bow,A simple bow with a few arrows.,2,3,4,4,4
+Magic,Quick Bolt,Strike the enemy with a weak bolt of plasma to deal little damage but conserve energy.,1,2,Plasma,10,0
+Magic,Plasma Bolt,Strike the enemy with a lightning-like bolt of plasma.,2,2,Plasma,15,0
+Magic,Plasma Ball,Conjure a ball of plasma and launch it at the foe.,3,3,Plasma,20,0
+Magic,Lesser Healing,A small but energy-efficient burst of healing magic.,2,2,Healing,5,0
+Magic,Greater Healing,A powerful burst of healing magic to repair deep wounds.,3,4,Healing,10,0
+Passive,Increased Favour,Win a smidgeon of Cavien's favour to increase his generosity.,0,3,0,1,0
+Passive,Dread Patron,Gain the favour of a foul Dread Titan for increased power.,0,6,0,2,0
+Passive,Strengthen Vigour,Dig deep and push your mind and body to their limits.,0,2,0,0,10
+Passive,Shield,One of the best options for protection is the humble shield.,3,4,0,0,0
+Passive,Concoction of Strength,A foul-smelling and nasty-looking brew that pushes your muscles to their physical limit.,0,3,2,0,0
+Item,Black Brew,A bitter black drink with a powerful aroma that is said to increase one's alertness.,0,2,0,0,2
+Item,Holy Relic,A sacred object of veneration from your religion that empowers you with immense resolve.,1,3,0,0,0
+Item,Unstable Crystal,A magical crystal storing unstable energy that will violently explode when shattered.,0,3,20,0,0
+Item,Throwing Knife,A knife designed for throwing that can leave a nasty wound.,0,2,10,0,0
+Item,Throwing Axe,An axe designed for throwing that can cause devastating damage.,0,3,15,0,0
+Item,Rock,A large stone with sharp edges. Good for throwing.,0,1,8,0,0
